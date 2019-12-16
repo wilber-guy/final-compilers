@@ -1,0 +1,26 @@
+{
+    int j;
+	int k;
+	int p;
+	int i;
+	float f;
+
+	p = 3;
+
+	k = p;
+
+	f = 2;
+
+
+
+	f = p * f + k;
+
+	if(p < 10)
+	{
+		j = k + p;
+	}
+
+	
+
+
+}
